@@ -1,0 +1,6 @@
+wandb
+pandas
+matplotlib
+ipykernel
+
+# python -m ipykernel install --user --name owt --display-name "owt"
